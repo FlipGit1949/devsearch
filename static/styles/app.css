@@ -649,7 +649,7 @@ img {
   align-items: center;
 }
 
-.auth::after {
+  auth::after {
   z-index: -1;
   opacity: 0.1;
   content: '';
